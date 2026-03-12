@@ -10,7 +10,7 @@ Currently building **AdhikaarAI**, an AI-driven legal assistance platform to mak
 ## 🧠 About Me
 
 - 🎓 Final-year **B.Tech Student at IPU University**
-- 💼 Experienced in **React.js, Node.js, Express.js, MongoDB, **
+- 💼 Experienced in **React.js, Node.js, Express.js, MongoDB,Prisma,Postgress**
 - 🧩 Strong interest in **DSA, Machine Learning, and System Design**
 - 🧠 Exploring **Networking & DevOps** as side learning topics
 - 💬 Always open to collaborations and innovative project ideas!
@@ -22,7 +22,7 @@ Currently building **AdhikaarAI**, an AI-driven legal assistance platform to mak
 **Frontend:** React.js, Next.js, HTML, CSS, JavaScript, TailwindCSS  
 **Backend:** Node.js, Express.js, MongoDB  
 **Other Tools:** Git, APIs, Figma  
-**Currently Learning:** DSA & Machine Learning  
+**Currently Learning:** DSA & system Design  
 
 ---
 
@@ -52,10 +52,6 @@ Currently building **AdhikaarAI**, an AI-driven legal assistance platform to mak
 
 ---
 
-## 📈 Contribution Graph
-[![Aditya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adityachoubey-git&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
 
 ## 🌐 Connect with Me
 
